@@ -1,36 +1,17 @@
 .info{
     text-align: center;
-    background-color: blanchedalmond;
-    padding: 2px;
 }
-.shopimage{
-    background-size: 10px 10px;
-  /* bottom: -10px; */
-  
-
-  cursor: pointer;
-  margin-inline-end: 280px;
-  padding: 10px 0px;
-  position: absolute;
-  right: 60px;
-  top: 15px;
-  width: 50px;
-}
-.homeimage{
-    background-size: 10px 10px;
-  /* bottom: -10px; */
-  
-
-  cursor: pointer;
-  margin-inline-end: 280px;
-  padding: 10px 0px;
-  position: absolute;
-  top: 15px;
-  width: 100px;
+.image{
+    text-align: left;
+    width: -500px;
+padding: 0px;
 }
 
+    .active {
+        background-color: #0099FF;
+      }
 
 
-.content{
-    text-align: center;
-}
+      .products{
+          text-align: center;
+      }
